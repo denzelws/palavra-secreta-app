@@ -5,6 +5,8 @@
 Esse projeto foi feito com React, com o objetivo de criar um jogo no qual o usuário tente descobrir a palavra por meio de dicas.
 Inserindo seus palpites e interagindo com a interface de forma dinâmica.
 
+Clique no link para ver a aplicação rodando: https://secret-word-lake.vercel.app/
+
 ## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com :
